@@ -1,0 +1,8 @@
+Silvana|Johnson|34|London|silvana001|silvana111|True|80
+Jad|Fakhoury|20|Beirut|jad001|jad111|False|620
+John|Wilson|25|Paris|john001|john111|True|460
+Maurice|Smith|34|New York|maurice001|maurice111|False|680
+Jack|Brown|29|New Delhi|jack001|jack111|True|510
+James|Williams|56|Roma|james001|james111|False|980
+Johny|Willson|21|Paris|johny001|johny111|False|480
+Georges|Adams|50|Rome|georges001|georges111|True|820
